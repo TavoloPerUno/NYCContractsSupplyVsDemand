@@ -4,7 +4,7 @@
 
 * Copy mergedcontracts.csv into the root folder.
 
-* Convert the blocks in LEHD dataset were using GeoDa and were merge it with a Chicago community tract dataset to get higher level aggregations.
+* Convert LEHD blocks dataset using GeoDa to points using using their centroids and merge it with a Chicago community tract dataset to get higher level aggregations.
 
 ## Generated files
 
